@@ -1,0 +1,591 @@
+Company Name,Country,Sales,Profits,Assets,MarketValue
+JPMorgan Chase,United States,136.20,40.40,3689.30,464.80
+Berkshire Hathaway,United States,245.50,42.50,873.70,624.40
+Apple,United States,294.00,63.90,354.10,2252.30
+Bank of America,United States,98.80,17.90,2832.20,336.30
+Amazon,United States,386.10,21.30,321.20,1711.80
+Alphabet,United States,182.40,40.30,319.60,1538.90
+Microsoft,United States,153.30,51.30,304.10,1966.60
+Citigroup,United States,84.40,17.10,2314.30,151.20
+Walmart,United States,559.20,13.50,252.50,396.10
+Wells Fargo,United States,85.90,7.40,1959.50,181.50
+Verizon Communications,United States,128.30,17.80,316.50,241.30
+UnitedHealth Group,United States,262.90,16.90,205.20,369.60
+Comcast,United States,103.60,10.50,273.90,252.40
+Goldman Sachs Group,United States,61.80,15.10,1302.00,116.50
+Morgan Stanley,United States,56.70,13.40,1158.80,123.90
+Facebook,United States,86.00,29.10,159.30,870.50
+Johnson & Johnson,United States,82.60,14.70,174.90,427.10
+Intel,United States,77.90,20.90,153.10,263.70
+CVS Health,United States,268.70,7.20,238.50,99.60
+General Electric,United States,79.90,5.60,255.10,117.60
+Procter & Gamble,United States,74.00,13.80,120.10,338.00
+General Motors,United States,122.50,6.40,235.20,84.60
+Cigna,United States,160.60,8.50,151.50,87.70
+Pfizer,United States,47.60,9.60,154.20,215.20
+IBM,United States,73.60,5.60,156.00,119.40
+MetLife,United States,67.80,5.40,795.10,55.80
+Home Depot,United States,132.10,12.90,70.60,352.80
+PepsiCo,United States,71.30,7.50,91.20,199.20
+Oracle,United States,39.70,12.80,118.10,227.70
+AbbVie,United States,45.80,4.60,150.60,190.40
+Cisco Systems,United States,48.00,10.10,95.60,222.90
+British American Tobacco,United States,33.10,8.20,188.20,91.60
+Merck & Co.,United States,47.80,7.10,91.60,196.00
+US Bancorp,United States,23.10,6.10,553.40,86.90
+Anthem,United States,121.90,4.60,88.30,92.00
+Charter Communications,United States,48.10,3.20,146.10,124.80
+Dell Technologies,United States,94.30,3.30,123.40,77.40
+American Express,United States,38.20,3.10,191.40,120.50
+Truist Financial,United States,24.30,4.90,517.50,77.80
+Coca-Cola,United States,33.00,7.70,87.30,231.30
+Costco Wholesale,United States,178.60,4.30,54.90,164.10
+Capital One,United States,31.60,2.70,421.60,62.40
+PNC Financial Services,United States,17.40,8.40,474.40,75.80
+FedEx,United States,78.70,3.00,82.80,76.30
+Abbott Laboratories,United States,34.60,4.50,72.50,220.30
+Visa,United States,21.50,10.40,80.40,483.90
+Thermo Fisher Scientific,United States,32.20,6.40,69.10,193.70
+Lowe's,United States,89.60,5.80,48.30,149.40
+BlackRock,United States,18.10,5.30,177.00,123.90
+Caterpillar,United States,41.70,3.00,78.30,127.30
+Lockheed Martin,United States,65.40,6.80,50.70,109.20
+Target,United States,93.60,4.40,51.20,104.00
+Deere & Company,United States,37.00,3.50,75.50,120.10
+Honeywell International,United States,32.60,4.80,64.60,161.20
+Charles Schwab,United States,13.80,4.00,563.50,116.90
+Broadcom,United States,24.70,4.00,77.00,195.50
+Amgen,United States,25.20,7.30,62.90,147.20
+Allstate,United States,44.80,5.60,117.90,36.70
+PayPal,United States,21.40,4.20,70.40,316.90
+Danaher,United States,22.30,3.60,76.20,173.30
+NextEra Energy,United States,17.20,2.90,127.70,158.80
+Salesforce.com,United States,21.30,4.10,66.30,213.60
+United Parcel Service,United States,84.40,1.40,62.40,156.00
+Progressive,United States,42.60,5.70,60.80,57.80
+Southern Company,United States,20.20,3.10,122.90,68.70
+Philip Morris International,United States,28.70,8.00,44.80,144.80
+Mondelez International,United States,26.60,3.60,67.80,82.60
+Union Pacific,United States,19.50,5.30,63.50,148.50
+3M,United States,32.20,5.40,47.30,115.10
+Exelon,United States,33.40,2.00,129.30,45.10
+Eli Lilly,United States,24.50,6.20,46.60,181.40
+Aflac,United States,22.10,4.80,164.10,36.80
+HCA Healthcare,United States,51.50,3.80,47.50,66.40
+Duke Energy,United States,23.90,1.40,167.30,77.40
+Bank of New York Mellon,United States,15.90,3.60,469.60,40.40
+Travelers,United States,32.00,2.70,109.10,39.20
+McDonald's,United States,19.20,4.70,52.60,173.80
+Nike,United States,38.50,3.40,36.20,212.20
+Qualcomm,United States,26.70,6.70,37.50,157.00
+Centene,United States,111.10,1.80,69.80,37.80
+Micron Technology,United States,23.50,3.20,54.10,101.70
+General Dynamics,United States,37.90,3.20,51.30,52.30
+Altria Group,United States,20.80,4.50,47.40,96.90
+Humana,United States,77.10,3.40,35.10,56.20
+Netflix,United States,25.00,2.80,39.30,242.10
+Northrop Grumman,United States,36.80,3.20,44.50,55.80
+Kroger,United States,132.50,2.60,51.60,28.30
+HP,United States,57.70,3.20,34.70,42.60
+Mastercard,United States,15.30,6.40,33.60,383.60
+Dow,United States,38.50,1.20,61.50,48.20
+Archer Daniels Midland,United States,64.40,1.80,49.70,33.20
+American Electric,United States,14.90,2.20,84.00,44.00
+Becton Dickinson,United States,18.20,1.60,54.70,75.80
+Automatic Data Processing,United States,14.60,2.50,49.30,82.60
+NVIDIA,United States,16.70,4.30,28.80,396.10
+Tesla,United States,31.50,690.00,52.10,710.10
+Dollar General,United States,33.70,2.70,28.50,51.90
+State Street,United States,11.40,2.30,316.90,28.00
+Fiserv,United States,14.90,958.00,74.60,83.40
+Sempra Energy,United States,11.40,3.90,66.60,41.80
+ViacomCBS,United States,25.90,2.40,52.70,25.40
+Adobe,United States,13.70,5.60,25.00,251.00
+Fannie Mae,United States,109.60,11.80,3986.10,2.80
+Applied Materials,United States,18.20,3.90,23.30,122.70
+IntercontinentalExchange,United States,7.60,2.10,126.20,67.90
+AT&T,United States,171.80,-5.20,525.80,213.80
+Tyson Foods,United States,42.80,2.00,35.50,28.20
+Marsh & McLennan,United States,17.20,2.00,33.00,64.90
+Ameriprise Financial,United States,12.10,1.50,165.90,29.00
+Hartford Financial Services,United States,20.50,1.70,69.20,23.70
+ExxonMobil,United States,178.20,-22.40,332.80,239.90
+Freddie Mac,United States,68.70,7.30,2627.40,1.50
+CRH,United States,27.50,1.10,44.90,38.20
+Stryker,United States,14.40,1.60,34.30,96.80
+CSX,United States,10.60,2.80,40.30,74.90
+Lennar,United States,23.30,3.00,30.60,33.20
+Chevron,United States,94.40,-5.50,239.80,198.50
+General Mills,United States,18.60,2.50,32.60,37.40
+Newmont Mining,United States,11.40,2.80,41.40,52.40
+Discover Financial Services,United States,13.00,1.10,113.30,31.30
+Texas Instruments,United States,14.50,5.60,19.40,177.20
+Cardinal Health,United States,156.50,1.40,44.70,18.00
+Walt Disney,United States,60.40,-5.00,201.90,339.90
+Principal Financial Group,United States,14.70,1.40,296.60,17.20
+Norfolk Southern,United States,9.80,2.00,38.40,73.50
+Synchrony Financial,United States,12.80,1.40,95.90,24.10
+Keurig Dr Pepper,United States,11.60,1.30,49.80,50.70
+L3Harris Technologies,United States,18.20,1.10,37.00,43.30
+BAE Systems,United States,24.70,1.70,38.20,23.20
+Waste Management,United States,15.20,1.50,29.70,57.00
+Xcel Energy,United States,11.50,1.50,56.30,37.90
+Raytheon Technologies,United States,63.50,-3.50,162.20,118.60
+Emerson Electric,United States,16.80,2.10,23.70,55.30
+Boeing,United States,58.20,-11.90,152.10,144.80
+Sherwin-Williams,United States,18.40,2.00,20.40,71.40
+VMware,United States,11.80,2.10,29.00,68.80
+Ally Financial,United States,10.50,2.20,181.90,17.80
+American Tower,United States,8.00,1.70,47.20,110.60
+Ford Motor,United States,127.10,-1.30,267.30,48.80
+Starbucks,United States,23.20,664.80,30.00,139.30
+Carrier Global,United States,17.50,2.00,25.10,38.10
+Bristol Myers Squibb,United States,42.50,-9.00,118.50,146.20
+Cummins,United States,19.80,1.80,22.60,38.70
+D.R. Horton,United States,22.20,2.70,19.80,35.10
+Best Buy,United States,47.30,1.80,19.10,30.00
+Prudential Financial,United States,57.00,-408.00,940.70,39.10
+Fifth Third Bank,United States,7.40,1.40,204.70,27.20
+CME Group,United States,4.90,2.10,124.70,74.50
+Public Service Enterprise Group,United States,9.30,1.90,50.10,32.00
+Consolidated Edison,United States,12.20,1.10,62.90,26.80
+Kimberly-Clark,United States,19.10,2.40,17.50,47.10
+Kraft Heinz Company,United States,26.20,356.00,99.80,50.10
+Paccar,United States,18.70,1.30,28.30,33.00
+American International Group,United States,43.70,-5.90,512.90,40.60
+DTE Energy,United States,12.30,1.40,45.50,27.30
+Colgate-Palmolive,United States,16.50,2.70,15.90,68.50
+Biogen,United States,10.60,4.00,24.60,40.70
+DISH Network,United States,15.50,1.80,38.40,20.00
+Walgreens,United States,138.50,-616.00,90.90,46.10
+Air Products & Chemicals,United States,9.00,1.90,26.10,63.60
+eBay,United States,10.70,5.70,19.30,44.20
+Freeport-McMoRan,United States,13.90,590.00,42.10,55.60
+Citizens Bank (Rhode IsIand),United States,7.40,1.60,187.20,19.10
+Edison International,United States,13.60,739.00,69.40,23.30
+Dollar Tree,United States,25.50,1.30,20.70,27.40
+Entergy,United States,10.00,1.40,58.20,21.40
+Lam Research,United States,11.90,3.00,15.40,92.00
+The Estée Lauder Companies,United States,14.20,928.00,19.60,113.30
+Corteva,United States,14.20,681.00,42.60,35.20
+KeyCorp,United States,7.30,1.30,170.30,20.00
+Constellation Brands,United States,8.60,2.00,27.10,45.80
+Activision Blizzard,United States,8.10,2.20,23.10,74.70
+Marathon Petroleum,United States,75.00,-9.90,85.20,35.40
+Illinois Tool Works,United States,12.60,2.10,15.60,70.90
+Eversource Energy,United States,8.90,1.20,46.10,30.80
+Parker-Hannifin,United States,13.50,1.40,19.80,41.40
+Stanley Black & Decker,United States,14.50,1.20,23.60,33.10
+Gilead Sciences,United States,24.60,123.00,68.40,84.00
+Cognizant,United States,16.70,1.40,16.90,42.80
+PPG,United States,14.30,1.20,20.10,39.70
+Northern Trust,United States,6.10,1.20,170.00,22.20
+McKesson,United States,237.60,-4.20,61.80,30.70
+Prologis,United States,4.40,1.50,56.10,84.20
+Regeneron Pharmaceuticals,United States,8.50,3.50,17.20,53.80
+M&T Bank,United States,6.10,1.30,142.60,19.80
+Dominion Energy,United States,15.20,-401.00,95.90,66.20
+LabCorp,United States,14.00,1.60,20.10,25.60
+Baxter International,United States,11.70,1.10,20.00,43.80
+Regions Financial,United States,6.40,1.10,147.40,20.40
+Crown Castle International,United States,5.80,1.10,38.80,77.60
+Phillips 66,United States,63.70,-4.00,54.70,34.50
+PPL,United States,7.60,1.50,48.10,22.40
+FirstEnergy,United States,10.80,1.00,44.50,19.40
+ConocoPhillips,United States,18.80,-2.70,62.60,69.10
+Lincoln National,United States,17.40,499.00,352.40,12.50
+Fox,United States,12.70,1.50,22.80,22.40
+Fidelity National Information,United States,12.60,157.00,83.80,94.90
+First Republic Bank,United States,4.60,1.20,155.80,31.60
+DuPont de Nemours,United States,20.40,-3.00,70.90,41.20
+Valero Energy,United States,64.90,-1.40,52.40,29.60
+WEC Energy Group,United States,7.20,1.20,37.90,30.60
+Advanced Micro Devices,United States,9.80,2.50,9.00,99.80
+Global Payments,United States,7.40,584.50,44.20,64.30
+CBRE Group,United States,23.80,752.00,18.00,27.50
+Discovery,United States,10.60,1.20,34.10,18.20
+Fidelity National Financial,United States,10.80,1.40,48.40,13.00
+AutoZone,United States,13.40,1.90,14.20,33.00
+Republic Services,United States,10.20,967.30,23.40,33.30
+TJX Cos,United States,32.10,90.50,30.80,84.40
+AmerisourceBergen,United States,194.50,-3.20,45.80,24.50
+SVB Financial Group,United States,4.00,1.20,115.50,28.00
+Nucor,United States,20.10,716.70,20.10,23.70
+Bunge,United States,41.40,1.20,23.70,11.80
+Intuit,United States,7.70,1.70,14.60,113.90
+CarMax,United States,19.00,746.90,21.50,21.10
+International Paper,United States,20.60,482.00,31.70,22.50
+Omnicom Group,United States,13.20,945.30,27.60,17.10
+Raymond James Financial,United States,8.40,861.00,53.70,17.90
+Kellogg,United States,13.80,1.30,18.00,21.60
+Rocket Companies,United States,16.30,3.80,37.50,3.00
+PG&E,United States,18.50,-1.30,106.90,23.00
+Albertsons,United States,69.40,1.10,26.30,9.30
+Schlumberger,United States,23.60,-10.50,42.40,36.80
+Corning,United States,11.30,512.00,30.80,35.20
+Analog Devices,United States,5.90,1.40,21.40,58.80
+Whirlpool,United States,19.40,1.10,20.40,14.70
+O'Reilly Automotive,United States,11.60,1.80,12.30,37.20
+Occidental Petroleum,United States,19.70,-14.80,84.40,22.80
+S&P Global,United States,7.40,2.30,12.50,91.10
+Conagra Brands,United States,11.70,1.20,22.10,18.00
+Kinder Morgan,United States,11.50,106.00,73.50,37.50
+Markel,United States,9.70,787.30,34.90,16.70
+Hewlett Packard Enterprise,United States,26.90,-432.00,53.50,20.80
+Delta Air Lines,United States,12.70,-13.00,73.10,29.80
+Simon Property Group,United States,4.60,1.20,34.80,38.40
+Uber,United States,12.10,-6.80,33.30,112.70
+Sysco,United States,45.90,-337.50,22.50,41.10
+Zoetis,United States,6.70,1.60,13.60,79.60
+Huntington Bank,United States,5.00,817.00,123.00,16.50
+Roper Technologies,United States,5.50,949.70,24.00,44.40
+CDW,United States,18.50,788.50,9.30,25.90
+Cincinnati Financial,United States,7.50,1.20,27.20,17.10
+Vertex Pharmaceuticals,United States,6.20,2.70,11.80,56.80
+Ball,United States,11.80,585.00,18.30,29.90
+Otis Worldwide,United States,12.80,906.00,10.70,30.30
+Amphenol,United States,8.60,1.20,12.30,41.00
+Unum,United States,13.20,793.00,60.70,5.90
+Altice USA,United States,9.90,436.20,34.00,22.70
+Equitable Holdings,United States,12.40,-635.00,275.40,14.40
+United Rentals,United States,8.50,890.00,18.40,23.70
+United Airlines Holdings,United States,15.40,-7.10,66.00,18.10
+Gallagher,United States,6.90,818.80,22.30,26.70
+Ameren,United States,5.80,871.00,32.00,21.50
+T Rowe Price,United States,6.20,2.30,10.90,40.50
+Hershey,United States,8.20,1.30,9.10,33.30
+Oneok,United States,8.60,612.80,23.10,23.00
+Boston Scientific,United States,9.90,-139.00,30.80,58.10
+Fortive,United States,6.50,1.60,16.10,24.50
+Lumen Technologies,United States,20.70,-1.20,59.40,14.10
+EOG Resources,United States,9.90,-604.60,35.80,41.20
+Moody's,United States,5.40,1.80,12.40,60.30
+CMS Energy,United States,6.70,755.00,29.70,18.50
+American Financial Group,United States,7.80,732.00,63.90,10.20
+KLA,United States,6.10,1.40,9.80,51.30
+Jefferies Financial,United States,8.10,1.20,56.90,8.00
+Reinsurance Group of America,United States,14.60,415.00,83.70,9.00
+Weyerhaeuser,United States,7.50,797.00,16.30,29.40
+American Airlines Group,United States,17.30,-8.90,62.00,14.10
+Quest Diagnostics,United States,9.40,1.40,14.00,17.10
+Hormel Foods,United States,9.70,887.50,10.00,25.30
+Loews,United States,12.60,-931.00,75.80,14.50
+Baker Hughes Company,United States,20.70,-9.90,38.00,15.40
+Southwest Airlines,United States,9.00,-3.10,36.60,36.90
+Marriott International,United States,10.60,-267.00,24.70,48.40
+IQVIA,United States,11.40,279.00,24.60,41.30
+Viatris,United States,11.90,-669.90,61.60,16.20
+Cintas,United States,6.90,980.50,8.30,36.80
+Ecolab,United States,12.40,-1.20,18.10,63.80
+L Brands,United States,11.80,845.30,11.60,18.60
+Motorola Solutions,United States,7.40,949.00,10.90,31.90
+Equinix,United States,6.00,369.80,27.00,63.40
+NASDAQ,United States,5.60,932.00,18.00,26.40
+Clorox,United States,7.50,1.20,6.90,24.00
+PulteGroup,United States,11.00,1.40,12.20,14.30
+WW Grainger,United States,11.80,695.00,6.30,21.30
+Rockwell Automation,United States,6.20,1.30,8.20,30.90
+Western Digital,United States,16.30,167.00,25.60,21.10
+Alexion Pharmaceuticals,United States,6.10,603.40,18.10,36.20
+Tractor Supply,United States,10.60,749.00,7.00,21.00
+Molina Healthcare,United States,19.30,673.00,9.60,14.60
+DaVita,United States,11.60,783.30,17.80,12.40
+Electronic Arts,United States,5.70,1.20,12.40,40.60
+Williams,United States,7.70,211.00,46.20,28.70
+Align Technology,United States,2.50,1.80,4.80,48.00
+American Water Works,United States,3.80,709.00,25.80,29.10
+Invesco,United States,6.20,761.60,36.50,12.30
+Intuitive Surgical,United States,4.40,1.10,11.20,96.20
+Monster Beverage,United States,4.60,1.40,6.30,51.80
+Autodesk,United States,3.80,1.20,7.30,65.90
+JM Smucker,United States,8.20,951.30,16.40,14.40
+WR Berkley,United States,8.00,530.70,28.00,14.20
+Equity Residential,United States,2.50,879.40,20.30,27.10
+Crown Holdings,United States,11.60,579.00,16.70,14.70
+Public Storage,United States,2.90,1.40,11.80,46.60
+Qurate Retail Group,United States,14.20,1.20,17.00,5.10
+Expeditors International,United States,10.10,696.10,4.90,18.80
+Universal Health Services,United States,11.60,941.00,13.50,12.40
+WestRock,United States,17.60,-677.50,28.80,14.40
+Arrow Electronics,United States,28.70,584.40,17.10,8.70
+Cheniere Energy,United States,9.40,-85.00,38.70,18.80
+Yum! Brands,United States,5.70,904.00,5.90,35.30
+Alexandria Real Estate Equities,United States,1.90,758.70,22.80,24.00
+Booking Holdings,United States,6.80,59.00,21.90,101.70
+First Horizon,United States,3.40,845.00,84.70,9.70
+Agilent Technologies,United States,5.50,810.00,9.70,41.00
+AES,United States,9.70,43.00,34.60,19.10
+Mosaic,United States,8.70,666.10,19.80,12.70
+AvalonBay Communities,United States,2.30,825.70,19.20,26.50
+Digital Realty Trust,United States,3.90,356.40,36.10,41.00
+Celanese,United States,5.70,2.00,10.90,18.00
+Franklin Resources,United States,5.80,767.50,21.20,15.20
+Signature Bank,United States,2.00,526.60,74.10,13.10
+Boston Properties,United States,2.80,876.80,22.90,18.20
+Fastenal,United States,5.70,867.10,4.10,29.00
+NVR,United States,7.40,901.20,5.80,18.30
+Vistra Energy,United States,11.10,636.00,25.20,8.60
+Ross Stores,United States,12.50,85.40,13.70,46.30
+Halliburton,United States,14.40,-2.90,20.70,18.40
+Edwards Lifesciences,United States,4.40,823.40,7.20,55.40
+Leidos,United States,12.30,628.00,12.50,14.40
+Bio-Rad Laboratories,United States,2.50,3.80,13.00,18.70
+Zoom Video Communications,United States,2.70,671.60,5.30,96.90
+Campbell Soup,United States,9.00,806.00,12.50,15.00
+Assurant,United States,10.10,441.80,34.80,9.20
+Jacobs,United States,13.50,443.60,12.80,17.40
+Paychex,United States,3.90,1.10,9.70,35.10
+J.B. Hunt Transport Services,United States,10.00,547.80,6.20,18.20
+Zimmer Biomet,United States,7.00,-138.90,24.40,35.80
+Zions Bancorp,United States,2.90,708.00,81.50,9.20
+Square,United States,9.50,213.10,9.90,116.40
+C.H. Robinson,United States,16.20,506.40,5.10,13.20
+LKQ,United States,11.60,638.40,12.40,13.50
+Tenet Healthcare,United States,17.60,399.00,27.10,5.80
+Cooper Companies,United States,2.50,2.20,8.90,19.60
+Skyworks Solutions,United States,4.00,1.10,5.40,31.30
+Brown-Forman,United States,3.30,911.00,6.50,35.50
+McCormick,United States,5.90,764.50,12.70,23.70
+Carnival,United States,831.00,-11.40,57.20,30.60
+Illumina,United States,3.20,656.00,7.60,58.20
+Wayfair,United States,14.10,185.00,4.60,33.40
+Evergy,United States,4.90,618.30,27.10,14.40
+Dover,United States,6.70,683.50,9.20,20.20
+Synopsys,United States,3.80,722.60,8.00,39.70
+Eastman Chemical,United States,8.50,478.00,16.10,15.70
+Brighthouse Financial,United States,8.50,-1.10,249.60,4.10
+Ametek,United States,4.50,872.40,10.40,30.70
+Pioneer Natural Resources,United States,7.00,-128.00,20.90,32.10
+Mohawk Industries,United States,9.60,515.60,14.30,14.30
+Cerner,United States,5.50,780.10,7.50,22.80
+Berry Global Group,United States,12.00,642.00,17.20,8.40
+Hologic,United States,4.50,1.40,7.60,19.80
+East West Bancorp,United States,1.80,567.80,52.30,10.60
+BorgWarner,United States,10.20,500.00,16.00,11.70
+PennyMac Financial Services,United States,3.20,1.60,31.60,4.00
+Schroders,United States,3.30,610.80,29.60,13.70
+VICI Properties,United States,1.20,891.70,17.10,16.10
+XPO Logistics,United States,16.30,91.00,16.20,15.30
+Comerica,United States,3.10,472.00,88.10,9.80
+IDEXX Laboratories,United States,2.70,581.80,2.30,45.80
+Westinghouse Air Brake Technologies,United States,7.60,413.90,18.50,15.20
+Royalty Pharma,United States,2.10,974.90,16.00,16.30
+Globe Life,United States,4.70,731.80,29.00,10.80
+Western Alliance Bancorp.,United States,1.30,615.10,43.40,10.40
+Masco,United States,7.20,631.00,5.80,16.40
+American Equity Investment,United States,3.70,671.50,68.00,3.00
+Liberty Broadband,United States,51.00,397.60,21.70,29.40
+Voya Financial,United States,7.60,33.00,178.20,8.30
+Penske Automotive,United States,20.40,543.60,14.00,7.00
+Cadence Design,United States,2.70,590.60,4.00,41.10
+TransDigm Group,United States,4.70,394.00,18.60,33.80
+Verisk Analytics,United States,2.80,712.70,7.60,30.10
+MSCI,United States,1.70,601.80,4.20,39.20
+ResMed,United States,3.10,698.90,4.60,30.20
+Copart,United States,2.30,706.70,3.90,29.20
+Ventas,United States,3.80,439.10,23.90,20.80
+Genuine Parts,United States,17.00,183.50,13.40,17.30
+Church & Dwight,United States,4.90,785.90,7.40,21.60
+Microchip Technology,United States,5.30,333.30,16.60,42.60
+Genworth Financial,United States,8.70,178.00,89.90,1.80
+VeriSign,United States,1.30,814.90,1.80,23.50
+Old Dominion Freight Line,United States,4.00,672.70,4.40,29.40
+Welltower,United States,4.60,-109.60,32.50,31.60
+MGM Resorts,United States,5.20,-997.20,39.10,19.90
+VF,United States,8.80,-165.40,13.70,33.20
+Maxim Integrated Products,United States,2.40,721.90,3.90,25.50
+Xilinx,United States,3.10,620.90,5.70,31.60
+CenterPoint Energy,United States,7.40,-773.00,34.40,13.30
+Quanta Services,United States,11.20,445.60,8.40,13.20
+Realty Income,United States,1.70,395.50,20.70,25.00
+Avery Dennison,United States,7.00,555.90,6.10,16.50
+Chipotle Mexican Grill,United States,6.00,355.80,6.90,43.30
+Martin Marietta Materials,United States,4.70,720.40,10.90,21.90
+Advance Auto Parts,United States,10.10,493.00,11.80,12.60
+SS&C Technologies,United States,4.70,625.20,15.90,18.60
+SYNNEX,United States,24.40,489.30,7.70,6.40
+FleetCor Technologies,United States,2.40,704.20,11.20,24.30
+Teradyne,United States,3.10,784.10,3.70,21.60
+Mettler-Toledo International,United States,3.10,602.70,2.80,29.90
+People's United Bank,United States,2.20,572.60,63.10,7.60
+Molson Coors Brewing,United States,9.70,-949.00,27.30,11.60
+Keysight Technologies,United States,4.30,636.00,7.50,27.10
+Williams-Sonoma,United States,6.80,680.70,4.70,13.30
+DexCom,United States,1.90,493.60,4.40,38.70
+Lithia Motors,United States,13.10,470.30,8.10,10.40
+Las Vegas Sands,United States,3.60,-1.70,20.80,46.60
+Jabil Circuit,United States,28.30,368.90,14.50,8.10
+Seagen,United States,2.20,614.00,4.00,26.40
+Jones Lang LaSalle,United States,16.70,402.50,14.30,9.20
+Arista Networks,United States,2.30,634.60,4.70,24.20
+Steel Dynamics,United States,9.60,550.80,9.30,10.90
+Community Health Systems,United States,11.80,511.00,16.00,1.30
+SLM,United States,2.30,880.70,30.80,7.00
+Textron,United States,11.70,309.00,15.40,13.30
+Vulcan Materials,United States,4.90,584.50,11.90,23.30
+Popular,United States,2.60,506.60,65.90,6.10
+Interpublic Group,United States,9.10,351.10,18.00,12.00
+DXC Technology,United States,18.20,-2.80,23.60,8.10
+Alliant Energy,United States,3.40,624.50,18.30,14.00
+Kansas City Southern,United States,2.60,618.20,10.20,23.40
+NetApp,United States,5.60,592.00,8.70,17.30
+Annaly Capital Management,United States,1.50,-891.20,88.50,12.40
+Fortinet,United States,2.60,486.20,4.00,33.60
+Caesars Entertainment,United States,3.50,-1.80,36.40,19.50
+Royal Caribbean Group,United States,2.20,-5.80,32.50,21.70
+New York Community Bancorp,United States,1.80,505.30,56.40,5.80
+International Flavors & Fragrances,United States,5.10,364.10,13.60,35.60
+Navient,United States,3.70,411.00,87.40,2.70
+Chewy,United States,7.10,-92.50,1.70,34.90
+NRG Energy,United States,8.90,510.00,14.90,9.50
+Zebra Technologies,United States,4.50,504.00,5.40,27.50
+Booz Allen Hamilton Holding,United States,7.80,546.60,5.40,11.70
+First Citizens Bank (NC),United States,2.00,491.70,50.00,8.40
+Fortune Brands Home & Security,United States,6.10,553.10,7.40,14.30
+Ansys,United States,1.70,433.90,5.90,32.60
+Huntington Ingalls Industries,United States,9.40,696.00,8.70,8.40
+Veeva Systems,United States,1.50,380.00,3.00,41.60
+BioMarin Pharmaceutical,United States,1.80,859.10,5.80,14.40
+Old Republic International,United States,7.20,558.60,18.80,7.20
+Atmos Energy,United States,2.90,640.00,16.50,13.00
+Macy's,United States,18.10,-3.90,19.10,5.20
+Coinbase,United States,1.30,322.30,5.90,68.10
+Equifax,United States,4.10,507.20,9.60,23.40
+StoneX Group,United States,52.10,169.00,14.00,1.30
+Alleghany,United States,8.90,101.80,28.10,9.50
+Gap,United States,13.80,-665.00,13.80,12.30
+AutoNation,United States,20.40,381.60,10.10,8.00
+Essex Property Trust,United States,1.50,568.90,12.90,18.80
+Expedia Group,United States,5.20,-2.60,18.70,25.00
+AGCO,United States,9.20,427.10,8.50,11.40
+OneMain Holdings,United States,4.90,730.00,22.50,7.50
+News Corp,United States,8.70,-862.00,15.10,15.80
+BJ's Wholesale Club,United States,15.40,421.00,5.40,6.20
+PerkinElmer,United States,3.80,728.00,8.00,14.90
+Lear,United States,17.00,158.50,13.20,11.00
+DCC,United States,17.00,365.00,9.90,8.80
+ServiceNow,United States,4.50,118.50,8.70,109.20
+Broadridge Financial,United States,4.80,518.60,4.90,18.20
+AirBnB,United States,3.40,-4.60,10.50,107.10
+Qorvo,United States,3.70,485.30,7.00,21.80
+Prosperity Bancshares,United States,1.30,528.90,34.10,7.10
+Hilton,United States,4.30,-715.00,16.80,35.70
+Kohl's,United States,16.00,-163.00,15.30,9.40
+Snap,United States,2.50,-944.80,5.00,92.40
+UGI,United States,6.50,623.00,14.70,9.20
+Packaging Corp of America,United States,6.70,457.40,7.70,13.30
+BOK Financial,United States,1.90,432.80,46.70,6.40
+Teladoc Health,United States,1.10,-485.10,18.30,29.30
+Take-Two Interactive Software,United States,3.30,492.80,6.00,20.60
+Henry Schein,United States,10.10,402.20,7.80,10.10
+Akamai Technologies,United States,3.20,557.10,7.80,17.30
+Waters,United States,2.40,521.60,2.80,18.60
+Healthpeak Properties,United States,2.20,411.00,15.90,17.90
+Twitter,United States,3.70,-1.10,13.40,56.00
+Flagstar Bancorp,United States,2.00,538.00,31.10,2.30
+Starwood Property Trust,United States,1.10,325.80,80.90,7.30
+Moderna,United States,803.00,-747.10,7.30,68.40
+Dick's Sporting Goods,United States,9.60,530.30,7.80,7.50
+Snowflake,United States,592.00,-539.10,5.90,67.20
+Ubiquiti,United States,1.60,512.50,781.00,18.00
+Synovus Financial,United States,2.30,373.70,54.60,7.00
+Amerco,United States,4.30,659.40,14.40,12.00
+Twilio,United States,1.80,-491.00,9.50,65.70
+Commerce Bank,United States,1.40,430.40,33.30,9.00
+AGNC Investment,United States,341.00,-266.00,81.80,9.30
+Workday,United States,4.30,-282.40,8.70,62.30
+Extra Space Storage,United States,1.30,472.90,9.40,19.10
+First American Financial,United States,7.10,696.40,12.80,6.80
+Citrix Systems,United States,3.20,504.40,4.90,17.30
+Pinnacle West,United States,3.60,550.60,20.00,9.60
+FMC,United States,4.60,550.10,10.20,14.70
+Pinterest,United States,1.70,-128.30,2.60,48.90
+US Foods,United States,22.90,-226.00,12.40,8.60
+Roku,United States,1.80,-17.50,2.30,48.40
+CrowdStrike,United States,874.00,-92.60,2.70,48.20
+United Natural Foods,United States,27.00,198.40,7.50,2.00
+DoorDash,United States,2.90,-461.00,6.40,48.10
+Cannae Holdings,United States,586.00,1.80,4.60,3.80
+Etsy,United States,1.70,349.20,2.40,27.70
+Hess,United States,4.20,-3.10,18.80,21.30
+Performance Food Group,United States,26.70,-174.50,7.70,7.70
+Valley Natl Bancorp,United States,1.60,390.60,40.80,5.70
+DocuSign,United States,1.50,-243.30,2.30,45.10
+Western Union,United States,4.80,744.30,9.50,10.60
+Interactive Brokers Group,United States,2.50,195.00,95.70,7.00
+Westlake Chemical,United States,7.50,329.00,13.80,12.30
+Rite Aid,United States,24.00,-90.90,9.30,974.00
+Stifel Financial,United States,3.80,503.50,26.90,7.40
+Snap-on,United States,3.90,627.00,6.60,12.80
+Aramark,United States,11.30,-688.50,14.50,10.10
+Newell Brands,United States,9.40,-770.00,14.70,11.40
+LPL Financial Holdings,United States,5.90,472.60,6.50,11.80
+Roblox,United States,924.00,-253.30,1.80,41.80
+American National Group,United States,3.80,468.00,29.20,3.00
+Air Lease,United States,2.00,516.30,25.20,5.50
+Medical Properties Trust,United States,1.20,429.30,16.80,12.80
+Trimble,United States,3.10,389.90,6.90,20.60
+RPM International,United States,5.80,452.20,5.80,12.10
+Ingersoll Rand,United States,4.90,-33.30,16.10,21.10
+Palantir Technologies,United States,1.10,-1.20,2.70,40.90
+Domino's Pizza,United States,4.10,491.30,1.60,15.30
+Murphy USA,United States,11.30,386.10,2.70,3.90
+Match Group,United States,2.40,128.60,3.00,39.10
+AECOM Technology,United States,13.30,-200.80,12.50,9.90
+Reliance Steel,United States,8.80,369.10,8.10,9.90
+Goodyear,United States,12.30,-1.30,16.50,4.10
+World Fuel Services,United States,20.10,109.50,4.50,2.20
+Burlington Stores,United States,5.80,-216.50,6.80,21.60
+West Pharmaceutical Services,United States,2.10,346.20,2.80,23.20
+Avantor,United States,6.40,116.60,9.90,18.70
+Darden Restaurants,United States,6.20,-219.20,10.10,19.10
+EPAM Systems,United States,2.70,327.20,2.70,25.00
+CoStar Group,United States,1.70,227.10,6.90,35.70
+Palo Alto Networks,United States,3.80,-368.20,9.50,35.70
+Okta,United States,835.00,-266.30,3.30,35.40
+W.P. Carey,United States,1.20,455.40,14.70,12.70
+Peloton Interactive,United States,3.00,166.40,3.90,34.20
+Ulta Beauty,United States,6.20,175.80,5.70,18.60
+Invitation Homes,United States,1.70,154.30,17.50,18.90
+Manpower,United States,18.00,23.80,9.30,6.00
+Trade Desk,United States,836.00,242.30,2.80,34.10
+Carvana,United States,5.60,-171.10,3.00,21.50
+Avnet,United States,17.90,-76.20,8.30,4.40
+Big Lots,United States,6.20,629.20,4.00,2.40
+Generac Holdings Inc.,United States,2.50,348.30,3.20,20.90
+Zillow Group,United States,3.30,-162.10,7.50,32.40
+Marvell Technology Group,United States,3.00,-277.30,10.80,32.40
+Cullen/Frost Bankers,United States,1.50,328.10,42.40,7.30
+Core-Mark Holding,United States,17.00,63.20,2.10,2.00
+Kimco Realty,United States,1.70,995.70,11.60,8.50
+SBA Communications,United States,2.10,24.10,9.20,31.50
+Albemarle,United States,3.10,375.80,10.50,17.70
+Brown & Brown,United States,2.60,465.40,9.10,14.00
+CIT Group,United States,3.10,-615.30,58.10,5.20
+RingCentral,United States,1.20,-83.00,2.20,29.40
+Fluor,United States,15.70,-435.00,7.30,3.20
+Thor Industries,United States,9.30,389.50,6.40,7.80
+Scotts Miracle-Gro,United States,4.50,483.30,4.00,13.30
+Toll Brothers,United States,7.30,486.20,10.90,7.50
+Teledyne Technologies,United States,3.10,401.90,5.10,15.90
+Tenneco,United States,15.40,-1.50,11.90,939.00
+Teleflex,United States,2.50,335.30,7.20,20.20
+Amdocs,United States,4.20,676.10,6.90,10.00
+Builders FirstSource,United States,8.60,313.50,4.20,10.30
+PBF Energy,United States,15.10,-1.40,10.50,1.70
+IDEX,United States,2.40,377.80,4.40,16.70
+Tronox,United States,2.80,969.00,6.60,3.10
+Unity Software,United States,772.00,-282.30,2.70,28.00
+Datadog,United States,603.00,-24.50,1.90,27.70
+Wintrust Financial,United States,1.90,293.00,45.10,4.50
+Howmet Aerospace,United States,6.80,261.00,11.40,14.20
+TransUnion,United States,2.70,343.20,7.30,18.40
+Nexstar Media Group,United States,4.50,811.40,13.40,6.70
+Zscaler,United States,536.00,-191.40,2.00,26.20
+TCF Financial,United States,2.30,222.80,47.80,7.30
+Charles River Labs,United States,2.90,364.30,5.50,16.20
+Slack Technologies,United States,903.00,-300.40,2.40,24.60
+Penn National Gaming,United States,3.60,-669.50,17.10,15.60
+Pinnacle Bank,United States,1.30,312.30,35.00,7.00
+HubSpot,United States,883.00,-85.00,2.00,24.10
+Paycom,United States,841.00,143.40,2.60,24.00
